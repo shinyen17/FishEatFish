@@ -5,7 +5,6 @@
 Eat smaller fish 🐟, avoid the big ones 🐋, and swim your way through **4 exciting levels**! 🌊
 
 
-
 ## ✨ Features
 - 🕹️ Control your fish with keyboard keys
 - 🍽️ Eat smaller fish to gain points and grow
@@ -15,11 +14,27 @@ Eat smaller fish 🐟, avoid the big ones 🐋, and swim your way through **4 ex
 - ⏸️ Press **spacebar** to pause and resume the game
 
 
-
 ## 🛠️ Built With
 - 🧠 Java
 - 🎨 Swing (Java GUI)
 
+
+## 🖥️ Screenshots
+
+#### 🟢 Start
+![Start Screen](images/start.png)
+
+#### 🔵 Game
+![Gameplay](images/game.png)
+
+#### ⏸️ Pause 
+![Pause Screen](images/pauseplay.png)
+
+#### 🏆 Victory
+![Game Over](images/victory.png)
+
+#### 💀 Defeat 
+![Game Over](images/defeat.png)
 
 
 ## 🧸 Author
