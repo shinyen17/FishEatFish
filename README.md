@@ -22,19 +22,16 @@ Eat smaller fish 🐟, avoid the big ones 🐋, and swim your way through **4 ex
 ## 🖥️ Screenshots
 
 #### 🟢 Start
-![Start Screen](images/start.png)
+![Start Screen](readme_image/start.png)
 
 #### 🔵 Game
-![Gameplay](images/game.png)
+![Gameplay](readme_image/game.png)
 
 #### ⏸️ Pause 
-![Pause Screen](images/pauseplay.png)
-
-#### 🏆 Victory
-![Game Over](images/victory.png)
+![Pause Screen](readme_image/pauseplay.png)
 
 #### 💀 Defeat 
-![Game Over](images/defeat.png)
+![Game Over](readme_image/defeat.png)
 
 
 ## 🧸 Author
