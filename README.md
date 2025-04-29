@@ -1,6 +1,8 @@
-# 🐟🐠🐡Fish Eat Fish 🐋🦈🎮
+# Fish Eat Fish 🐟🐠🐡🐋🦈🎮
 
-**Fish Eat Fish**, a simple and fun Java game where you're a hungry little fish trying to grow big and strong! Eat smaller fish 🐟, avoid the big ones 🐋, and swim your way through **4 exciting levels**! 🌊
+**Fish Eat Fish**, a simple and fun Java game where you're a hungry little fish trying to grow big and strong! 
+
+Eat smaller fish 🐟, avoid the big ones 🐋, and swim your way through **4 exciting levels**! 🌊
 
 
 
@@ -21,7 +23,5 @@
 
 
 ## 🧸 Author
-Made by Shin Yen
-
-🐠 Thanks for playing!
+Made by Shin Yen 🐠
 
